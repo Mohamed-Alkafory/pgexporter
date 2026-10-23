@@ -41,7 +41,6 @@ Dashboards are automatically provisioned - no manual import needed.
 | Dashboard File | PostgreSQL Version | Additional Features |
 |----------------|-------------------|---------------------|
 | `postgresql_dashboard_pg13.json` | 13.x | Core metrics only |
-| `postgresql_dashboard_pg14.json` | 14.x | + Memory contexts |
 | `postgresql_dashboard_pg15.json` | 15.x | + Memory contexts |
 | `postgresql_dashboard_pg16.json` | 16.x | + pg_stat_io metrics |
 | `postgresql_dashboard_pg17.json` | 17.x | + Wait events |
